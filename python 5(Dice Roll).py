@@ -22,7 +22,7 @@ label2.image = image2
 
 
 label1.place(x = 100, y = 100)
-label2.place(x = 700, y = 100)
+label2.place(x = 300, y = 100)
 
 
 def dice_roll():
